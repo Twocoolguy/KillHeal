@@ -1,0 +1,6 @@
+main: me.TurtlesAreHot.KillHeal.Main
+name: KillHeal
+version: 1.0
+description: Heals you when you kill someone.
+author: TurtlesAreHot
+api-version: 1.16
